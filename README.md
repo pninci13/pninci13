@@ -21,7 +21,6 @@
 ---
 <img align="left" alt="Pedro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pninci13&show_icons=true&hide_border=true"/>
 
-
 <br />
 <br />
 
