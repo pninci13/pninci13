@@ -1,9 +1,9 @@
 ### Hi there, I'm Pedro 👋
 
 ## I'm a Computer Engineering Student!!
-⚡ I’m currently learning C, Java and some other cool languages.
-⚡ 2021 Goals: Contribute more to projects and programming in general and be a better person :)
-⚡ Fun fact: I love running and cycling
+⚡ I’m currently learning C, Java and some other cool languages.<br />
+⚡ 2021 Goals: Contribute more to projects and programming in general and be a better person :)<br />
+⚡ Fun fact: I love running and cycling<br />
 
 ### Connect with me:
 [<img align="left" alt="" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>][linkedin]
