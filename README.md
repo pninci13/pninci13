@@ -18,6 +18,10 @@
 [<img align="left" alt="Assembly" width="26px" src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png"/>]
 [<img align="left" alt="Notion" width="26px" src="https://img.icons8.com/ios/50/000000/notion.png"/>]
 
+---
+<img align="left" alt="Pedro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pninci13&show_icons=true&hide_border=true"/>
+
+
 <br />
 <br />
 
