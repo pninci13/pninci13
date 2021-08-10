@@ -12,7 +12,7 @@
 <br />
 
 ## Languages and Tools:
-[<img align="left" alt="Notion" width="26px" src="https://img.icons8.com/nolan/64/notion.png"/>]
+[<img align="left" alt="Notion" width="26px" src="https://iconscout.com/icon/notion-2296040"/>]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/>]
 [<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>]
 [<img align="left" alt="Java" width="26px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png"/>]
