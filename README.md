@@ -1,6 +1,6 @@
-### Hi there, I'm Pedro, Welcome to my Profile :) 👋
+## Hi there, I'm Pedro, Welcome to my Profile :) 👋
 
-#### I'm a Computer Engineering Student!!
+### I'm a Computer Engineering Student!!
 ⚡ I’m currently learning C, Java and some other cool languages.<br />
 ⚡ 2021 Goals: Contribute more to projects and programming in general and be a better person :)<br />
 ⚡ Fun fact: I love running and cycling<br />
