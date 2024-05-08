@@ -1,4 +1,4 @@
-### Hi there, I'm Pedro 👋
+### Hi there, I'm Pedro, Welcome to my Profile :) 👋
 
 ## I'm a Computer Engineering Student!!
 ⚡ I’m currently learning C, Java and some other cool languages.<br />
