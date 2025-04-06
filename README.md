@@ -1,8 +1,8 @@
-## Hi there, I'm Pedro, Welcome to my Profile =)
+## Hi there, I'm Pedro =)
 
-### I'm a Computer Engineering Student and Software Engineer!!
-⚡ I’m currently working on my final project for College, a music recommedation app<br />
-⚡ I have worked with Android, Java and Kotlin. And also Python for AI model training <br />
+### I'm a Computer Engineer
+⚡ I’m currently working with Android development, for a financial institution.<br />
+⚡ I have worked with Android, Java and Kotlin. And also Python for AI model training<br />
 
 <!-- [MY STATS] -->
 <div>
